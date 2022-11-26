@@ -24,6 +24,7 @@ list_of_files = [
     f"docs/index.md",
     "init_setup.sh",
     "requirements.txt",
+    "requirements_dev.txt",
     "setup.py",
     "setup.cfg",
     "tox.ini",
